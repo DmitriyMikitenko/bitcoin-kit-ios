@@ -14,7 +14,7 @@ BitcoinCashKit implements BitcoinCash protocol in Swift. It is an implementation
   s.source           = { git: 'https://github.com/VitaliyYarkun/bitcoin-kit-ios', tag: "bitcoin-cash-#{s.version}" }
   s.social_media_url = 'http://horizontalsystems.io/'
 
-  s.ios.deployment_target = '15.0'
+  s.ios.deployment_target = '13.0'
   s.swift_version = '5'
 
   s.source_files = 'BitcoinCashKit/Classes/**/*'
